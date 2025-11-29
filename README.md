@@ -135,8 +135,7 @@ This is an exploratory lab; high-signal PRs welcome. Please:
 ## Disclaimer
 Several advanced components described here (Intelligence Core, Risk Scoring, Synthesizer) are **not yet implemented**. They represent a forward-looking exploration roadmap to frame architectural direction.
 
-## License
-MIT – see `LICENSE` (add if missing).
+
 
 ## Inspiration
 Blending deterministic auth validation with adaptive heuristics aims to cut test flakiness, surface emergent edge cases earlier, and create a foundation for autonomous scenario discovery.
